@@ -16,7 +16,7 @@ import uk.co.caprica.vlcj.player.embedded.EmbeddedMediaPlayer;
 import uk.co.caprica.vlcj.player.embedded.windows.Win32FullScreenStrategy;
 import uk.co.caprica.vlcj.runtime.RuntimeUtil;
 
-public class Prueba { //prueba git
+public class Prueba { //prueba git 2
 	
 	public static void main(String[] args) {
 		  //gui to display video
